@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+ } 
+ .body{
+    background: linear-gradient( to right,rgb(212, 198, 66) , rgb(16, 70, 221));
+ }
+ .cabeça{
+    color: rgb(255, 255, 255);
+    font-size: 75px;
+   display: flex;
+   justify-content: center;
+}
+img{
+    border-radius:5px;
+}
+.div-1{
+
+    text-align: center;
+}
+.div2{
+    text-align: center;
+}
+.p1{ 
+    margin-top: 15px;
+    margin-block-end: 40px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center;
+
+}
+.pe{
+    margin-block-end: 40px;
+    margin-top: 15px;
+    color: rgb(222, 225, 228);
+    font-size: 25px;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center;
+}
